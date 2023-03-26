@@ -7,9 +7,9 @@
 
 <div align="center" style="border-radius:6px;">
   <p>
-    <img src="startpage_chrome/ico/ss_1.png" align="center" height="300px" style="border-radius:6px;"/>
-    <img src="startpage_chrome/ico/ss_2.png" align="center" height="300px" style="border-radius:6px;"/>
-    <img src="startpage_chrome/ico/ss_3.png" align="center" height="300px" style="border-radius:6px;"/>
+    <img src="startpage_chrome/ico/ss_1.png" align="center" height="350px" style="border-radius:6px;"/>
+    <img src="startpage_chrome/ico/ss_2.png" align="center" height="350px" style="border-radius:6px;"/>
+    <img src="startpage_chrome/ico/ss_3.png" align="center" height="350px" style="border-radius:6px;"/>
   </p>
 </div>
 <br>
