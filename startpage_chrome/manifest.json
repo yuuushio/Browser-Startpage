@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Aesthetic Startpage",
+  "version": "2.0",
+  "description": "Simple, aesthetically pleasing startpage",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "content_security_policy": "script-src 'self'; script-src 'unsafe-inline'; object-src 'self';"
+}
+
