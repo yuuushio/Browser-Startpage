@@ -64,5 +64,5 @@ It's tedious to sign extensions for firefox, therefore I decided to use GitHub p
 
 You can further customize the startpage to match your preferences by modifying the `index.html`, `style.css`, and `script.js` files.
 - Add or remove quick access links by editing the index.html file.
-- Add new **themes**, features or modify existing ones by editing the script.js file.
+- Add new **themes**, features or modify existing ones by editing the `script.js` file (because I want to be able to change the side image along with the theme).
 
