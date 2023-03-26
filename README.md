@@ -35,7 +35,7 @@ If you've used Brave before, you'll know that you cannot set the home/new-tab ba
 1. Clone or download this repository.
 
 ```bash
-git clone
+git clone https://github.com/yuuushio/AestheticStartpage.git
 ```
 
 #### Chromium Browsers:
@@ -43,7 +43,7 @@ git clone
 - Load the startpage as an unpacked extension:
   - Navigate to `chrome://extensions` in your browser.
   - Enable "Developer mode" using the toggle in the top-right corner.
-  - Click "Load unpacked" and select the folder `startpage_chrome` inside the downloaded repository.
+  - Click "Load unpacked" and select the folder cloned repo folder.
   - The startpage will now be set as your new tab page.
 
 #### Firefox
