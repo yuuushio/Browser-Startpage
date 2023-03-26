@@ -42,7 +42,7 @@ If you've used Brave before, you'll know that you cannot set the home/new-tab ba
 Clone or download this repository.
 
 ```bash
-git clone https://github.com/yuuushio/AestheticStartpage.git
+git clone https://github.com/yuuushio/Browser-Startpage.git
 ```
 
 #### Chromium Browsers:
@@ -57,7 +57,7 @@ git clone https://github.com/yuuushio/AestheticStartpage.git
 It's tedious to sign extensions for firefox, therefore I decided to use GitHub pages to host the startpage.
 
 - Use the `New Tab Override` extension, for example, if you're unable to set custom URLs for home/new-tab page.
-- Use this link: https://yuuushio.github.io/AestheticStartpage/
+- Use this link: https://yuuushio.github.io/Browser-Startpage/
 
 
 ## Customization
