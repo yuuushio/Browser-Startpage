@@ -24,7 +24,7 @@ If you've used Brave before, you'll know that you cannot set the home/new-tab ba
 
 
 ## Features
-- Minimal and stays out of your way whilst being useful.
+- Minimal and stays out of your way, whilst being useful.
 - **Customizable Search Bar:** Search the web using your preferred search engine. Easily switch between Google, Yandex, and DuckDuckGo by typing `:search <search_engine>` in the input box. All other strings will search the web using the currently selected search engine.
 - **Multiple Themes:** Choose from 3 beautiful default themes, offering unique aesthetics and styles: `catp` (![Catppuccin](https://github.com/catppuccin/catppuccin)), `aqua` (![Aquarium](https://github.com/FrenzyExists/aquarium-vim)), `light` (![Nord](https://www.nordtheme.com/)), and `dark`. To switch themes, type `:theme <theme>` in the input box.
 - **Quick Access Links:** Conveniently placed beneath the search bar, these links provide easy access to your most frequently visited websites, acting as a lightweight bookmark system.
