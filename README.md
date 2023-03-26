@@ -18,6 +18,11 @@
 Experience a Visually Enriching New Tab: A sleek, customizable browser startpage designed to enhance your browsing experience and boost productivity. Featuring customizable search bar, multiple default themes, a toggalable night-mode, and quick access to frequently visited websites.
 </p>
 
+<hr>
+
+If you've used Brave before, you'll know that you cannot set the home/new-tab background to what you want. If you turn off the crypto ads that are displayed on the home page, it will instead display a, *purposely*, annoying, bright-pink background. To work around this, I'd rather not use some bloated extension just to set something simple.
+
+
 ## Installation
 
 1. Clone or download this repository.
