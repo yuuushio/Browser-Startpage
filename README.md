@@ -54,10 +54,11 @@ git clone https://github.com/yuuushio/Browser-Startpage.git
   - The startpage will now be set as your new tab page.
 
 #### Firefox
-It's tedious to sign extensions for firefox, therefore I decided to use GitHub pages to host the startpage.
+- Go to `about:addons` or select "Add-ons and Themes" from menu bar.
+- Click the gear icon.
+- Select "Install Add-on From File" from dropdown.
+- Locate the cloned repo and select the `.xpi` file.
 
-- Use the `New Tab Override` extension, for example, if you're unable to set custom URLs for home/new-tab page.
-- Use this link: https://yuuushio.github.io/Browser-Startpage/
 
 
 ## Customization
