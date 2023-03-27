@@ -30,9 +30,9 @@ If you've used Brave before, you'll know that you cannot set the home/new-tab ba
   - `yandex`
   - `ddg`
 - **Multiple Themes:** Choose from 3 beautiful default themes, offering unique aesthetics and styles. To switch themes, type `:theme <theme>` in the input box. Themes to choose from:
-  - `catp` (![Catppuccin](https://github.com/catppuccin/catppuccin))
-  - `aqua` (![Aquarium](https://github.com/FrenzyExists/aquarium-vim))
-  - `light` (![Nord](https://www.nordtheme.com/))
+  - `catp` ([Catppuccin](https://github.com/catppuccin/catppuccin))
+  - `aqua` ([Aquarium](https://github.com/FrenzyExists/aquarium-vim))
+  - `light` ([Nord](https://www.nordtheme.com/))
   - `dark` (defaults to `aqua`)
 - **Quick Access Links:** Conveniently placed beneath the search bar, these links provide easy access to your most frequently visited websites, acting as a lightweight bookmark system.
 
